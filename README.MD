@@ -1,0 +1,1 @@
+This code currently uses JSOUP to scrape all the words on Urban Dictionary and saves it to a .txt file.
